@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi 👋, I'm Berna</h1>
 <h3 align="center">A passionate Computer Engineer</h3>
-<img src="https://raw.githubusercontent.com//berinackr/berinackr/main/banner.gif" width="100%">
+<img src="https://raw.githubusercontent.com//berinackr/berinackr/main/banner.gif" width="100%" hight="50%">
 <br>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=20&pause=500&color=4b00ff&center=true&vCenter=true&width=600&lines=Hi+I'm+A+New+Computer+Engineer;Full+Stack+Developer;Turning+Caffeine+into+Code;Building+Scalable+Systems;Debugging+The+REAL+WORLD" alt="Typing SVG" />
@@ -50,15 +50,14 @@
 ### 🌌 Github Universe
 <table align="center">
   <tr>
-    <td width="50%">
+    <td width="100%">
       <img src="https://github-readme-activity-graph.vercel.app/graph?username=berinackr&theme=tokyo-night&hide_border=true" />
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=berinackr&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
 </table>
 
+![Followers](https://img.shields.io/github/followers/berinackr)
+![Stars](https://img.shields.io/github/stars/berinackr)
 
 
 <div align="center">
